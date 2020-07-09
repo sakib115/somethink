@@ -1,0 +1,84 @@
+.first .nav-item{
+    margin-top: 1.5%;
+    font-size: 20px;
+}
+.sign{
+    border: 1px solid #21B573;
+    border-radius: 20px;
+    background-color: #21B573;
+}
+.top-1{
+    height: 580px;
+    background-color: #F0FFF0;
+}
+.start{
+    border-radius: 20px;
+    width: 150px;
+    height: 40px;
+}
+.banner{
+    margin-top: 8.5%;
+}
+.mid-1{
+    margin-top: 8%;
+    margin-left: 8%;
+}
+.topic{
+    cursor: pointer;
+    text-align: center;
+    height: 270px;
+    width: 270px;
+
+}
+.topic:hover{
+    box-shadow: 5px 5px 10px grey;
+}
+.mid-2{
+    background-color:;
+}
+
+.card{
+    width: 370px;
+    height: 515px;
+    border: 0ch;
+    border-radius: 16px;
+    background-color: whitesmoke;
+}
+.cd-img{
+    border-radius: 8px;
+    width: 305px;
+    height: 200px;
+    margin: 20px;
+}
+.buy{
+    border: 1px solid #21B573;
+    border-radius: 20px;
+    background-color: #21B573;
+    text-align: center;
+    height: 35px;
+    width: 137px;
+}
+
+.box-2{
+    width: 752px;
+    height: 234px;
+    margin-left: 100px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+.man{
+    position: absolute;
+}
+.man-text{
+    position: relative;
+    left: 180px;
+    top: 30px;
+}
+
+.foot{
+    color: white;
+    background-color: #282531;
+}
+.box-3{
+    margin-top: 100px;
+}
